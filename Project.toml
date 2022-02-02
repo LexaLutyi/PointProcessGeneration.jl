@@ -3,6 +3,10 @@ uuid = "9055088f-b982-4585-85cb-b73608d70da0"
 authors = ["LexaLutyi <liotbiu1@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
 [compat]
 julia = "1"
 
